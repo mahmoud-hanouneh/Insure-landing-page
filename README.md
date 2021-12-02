@@ -14,8 +14,6 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshor #one](./screenshots/screenshot-1.png)
-![screenshot #two](./screenshots/screenshot-1.png)
+![screenshor #one](screenshots/screenshot-1.png)
+![screenshot #two](screenshots/screenshot-1.png)
 
 
 ### Links
