@@ -26,12 +26,12 @@ Users should be able to:
 ### Screenshot
 
 ![screenshor #one](screenshots/screenshot-1.png)
-![screenshot #two](screenshots/screenshot-1.png)
+![screenshot #two](screenshots/screenshot-2.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://insure-dun.vercel.app/)
+- Live Site URL: [ live URL here](https://insure-dun.vercel.app/)
 
 ## My process
 
